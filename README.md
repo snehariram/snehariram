@@ -16,6 +16,9 @@ I'm **Sneha Hariram**, a Data Scientist and tech enthusiast.
   
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehariram&theme=github_dark)
+
+## 📊📈 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snehariram&theme=dark)](https://git.io/streak-stats)
 
 ## 📫 Get in Touch
